@@ -12,6 +12,10 @@ class Beanbun
 {
     const VERSION = '1.0.4';
 
+    public $initField = [];
+    public $rec_num = 0;
+    public $succ_num = 0;
+    public $fail_num = 0;
     public $id = null;
     public $name = null;
     public $max = 0;
