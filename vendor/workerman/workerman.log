@@ -1,0 +1,183 @@
+2018-04-03 01:07:25 pid:4679 Workerman[start.php] status 
+2018-04-03 01:07:25 pid:4679 Workerman[start.php] not run
+2018-04-03 01:27:21 pid:4867 Workerman[start.php] start in DAEMON mode
+2018-04-03 01:27:53 pid:4877 Workerman[start.php] stop 
+2018-04-03 01:27:53 pid:4877 Workerman[start.php] is stoping ...
+2018-04-03 01:27:53 pid:4869 Workerman[start.php] stopping ...
+2018-04-03 01:27:53 pid:4869 Workerman[start.php] has been stopped
+2018-04-03 01:27:53 pid:4877 Workerman[start.php] stop success
+2018-04-03 01:29:29 pid:4890 Workerman[start.php] start in DAEMON mode
+2018-04-03 01:29:39 pid:4895 Workerman[start.php] stop 
+2018-04-03 01:29:39 pid:4895 Workerman[start.php] is stoping ...
+2018-04-03 01:29:39 pid:4892 Workerman[start.php] stopping ...
+2018-04-03 01:29:39 pid:4892 Workerman[start.php] has been stopped
+2018-04-03 01:29:39 pid:4895 Workerman[start.php] stop success
+2018-04-03 01:29:55 pid:4899 Workerman[start.php] start in DAEMON mode
+2018-04-03 01:31:13 pid:4914 Workerman[start.php] start in DAEMON mode
+2018-04-03 01:31:13 pid:4914 Workerman[start.php] already running
+2018-04-03 01:31:18 pid:4916 Workerman[start.php] stop 
+2018-04-03 01:31:18 pid:4916 Workerman[start.php] is stoping ...
+2018-04-03 01:31:18 pid:4901 Workerman[start.php] stopping ...
+2018-04-03 01:31:18 pid:4901 Workerman[start.php] has been stopped
+2018-04-03 01:31:18 pid:4916 Workerman[start.php] stop success
+2018-04-03 01:32:01 pid:4924 Workerman[start.php] stop 
+2018-04-03 01:32:01 pid:4924 Workerman[start.php] not run
+2018-04-03 01:32:58 pid:4942 Workerman[start.php] stop 
+2018-04-03 01:32:58 pid:4942 Workerman[start.php] not run
+2018-04-03 01:33:35 pid:4948 Workerman[start.php] stop 
+2018-04-03 01:33:35 pid:4948 Workerman[start.php] not run
+2018-04-03 01:34:10 pid:4954 Workerman[start.php] start in DAEMON mode
+2018-04-03 01:34:18 pid:4959 Workerman[start.php] stop 
+2018-04-03 01:34:18 pid:4959 Workerman[start.php] is stoping ...
+2018-04-03 01:34:18 pid:4956 Workerman[start.php] stopping ...
+2018-04-03 01:34:18 pid:4956 Workerman[start.php] has been stopped
+2018-04-03 01:34:18 pid:4959 Workerman[start.php] stop success
+2018-04-03 01:35:54 pid:4973 Workerman[start.php] start in DAEMON mode
+2018-04-03 01:36:00 pid:4979 Workerman[start.php] stop 
+2018-04-03 01:36:00 pid:4979 Workerman[start.php] is stoping ...
+2018-04-03 01:36:00 pid:4975 Workerman[start.php] stopping ...
+2018-04-03 01:36:00 pid:4975 Workerman[start.php] has been stopped
+2018-04-03 01:36:00 pid:4979 Workerman[start.php] stop success
+2018-04-03 01:40:50 pid:5093 Workerman[start.php] start in DAEMON mode
+2018-04-03 01:41:12 pid:5102 Workerman[start_spider.php] stop 
+2018-04-03 01:41:12 pid:5102 Workerman[start_spider.php] not run
+2018-04-03 01:41:55 pid:5108 Workerman[start_queue.php] start in DAEMON mode
+2018-04-03 01:42:13 pid:5115 Workerman[start_queue.php] stop 
+2018-04-03 01:42:13 pid:5115 Workerman[start_queue.php] not run
+2018-04-03 01:42:20 pid:5116 Workerman[start_queue.php] start in DAEMON mode
+2018-04-03 01:42:35 pid:5095 Workerman[start.php] stopping ...
+2018-04-03 01:42:35 pid:5095 Workerman[start.php] has been stopped
+2018-04-03 01:42:43 pid:5123 Workerman[start_queue.php] start in DAEMON mode
+2018-04-03 01:47:20 pid:5125 Workerman[start_queue.php] stopping ...
+2018-04-03 01:47:20 pid:5125 Workerman[start_queue.php] has been stopped
+2018-04-03 01:47:27 pid:5175 Workerman[start_queue.php] start in DAEMON mode
+2018-04-03 02:01:28 pid:5299 Workerman[start_spider.php] start in DAEMON mode
+2018-04-03 02:01:43 pid:5301 Workerman[start_spider.php] stopping ...
+2018-04-03 02:01:43 pid:5177 Workerman[start_queue.php] stopping ...
+2018-04-03 02:01:43 pid:5178 worker[5178] remains 2 connection(s)
+2018-04-03 02:01:43 pid:5178 worker[5178] remains 1 connection(s)
+2018-04-03 02:01:43 pid:5301 Workerman[start_spider.php] has been stopped
+2018-04-03 02:01:43 pid:5178 worker[5178] remains 0 connection(s)
+2018-04-03 02:01:43 pid:5177 Workerman[start_queue.php] has been stopped
+2018-04-03 18:00:22 pid:1806 Workerman[start_queue.php] start in DAEMON mode
+2018-04-03 18:00:56 pid:1808 Workerman[start_queue.php] stopping ...
+2018-04-03 18:00:56 pid:1808 Workerman[start_queue.php] has been stopped
+2018-04-03 18:01:58 pid:1827 Workerman[start_queue.php] start in DAEMON mode
+2018-04-03 18:51:25 pid:1829 Workerman[start_queue.php] stopping ...
+2018-04-03 18:51:25 pid:1829 Workerman[start_queue.php] has been stopped
+2018-04-03 18:51:33 pid:2493 Workerman[start_queue.php] start in DAEMON mode
+2018-04-03 19:16:07 pid:2495 Workerman[start_queue.php] stopping ...
+2018-04-03 19:16:07 pid:2495 Workerman[start_queue.php] has been stopped
+2018-04-03 19:16:17 pid:2735 Workerman[start_queue.php] start in DAEMON mode
+2018-04-03 19:16:59 pid:2747 Workerman[start_spider.php] start in DAEMON mode
+2018-04-03 19:17:08 pid:2753 Workerman[start_spider.php] stop 
+2018-04-03 19:17:08 pid:2753 Workerman[start_spider.php] is stoping ...
+2018-04-03 19:17:08 pid:2749 Workerman[start_spider.php] stopping ...
+2018-04-03 19:17:08 pid:2749 Workerman[start_spider.php] has been stopped
+2018-04-03 19:17:08 pid:2753 Workerman[start_spider.php] stop success
+2018-04-03 19:18:23 pid:2763 Workerman[start_spider.php] start in DAEMON mode
+2018-04-03 19:19:14 pid:2774 Workerman[start_spider.php] stop 
+2018-04-03 19:19:14 pid:2774 Workerman[start_spider.php] is stoping ...
+2018-04-03 19:19:14 pid:2765 Workerman[start_spider.php] stopping ...
+2018-04-03 19:19:14 pid:2765 Workerman[start_spider.php] has been stopped
+2018-04-03 19:19:14 pid:2774 Workerman[start_spider.php] stop success
+2018-04-03 19:55:33 pid:3063 Workerman[start_spider.php] start in DAEMON mode
+2018-04-03 19:56:19 pid:3074 Workerman[start_spider.php] stop 
+2018-04-03 19:56:19 pid:3074 Workerman[start_spider.php] is stoping ...
+2018-04-03 19:56:19 pid:3065 Workerman[start_spider.php] stopping ...
+2018-04-03 19:56:19 pid:3065 Workerman[start_spider.php] has been stopped
+2018-04-03 19:56:19 pid:3074 Workerman[start_spider.php] stop success
+2018-04-03 19:57:15 pid:3084 Workerman[start_spider.php] start in DAEMON mode
+2018-04-03 19:57:43 pid:3093 Workerman[start_spider.php] stop 
+2018-04-03 19:57:43 pid:3093 Workerman[start_spider.php] is stoping ...
+2018-04-03 19:57:43 pid:3086 Workerman[start_spider.php] stopping ...
+2018-04-03 19:57:48 pid:3093 Workerman[start_spider.php] stop fail
+2018-04-03 19:58:16 pid:3086 worker[sb:3088] exit with status 65280
+2018-04-03 19:58:16 pid:3086 worker[sb:3087] exit with status 65280
+2018-04-03 19:58:16 pid:3086 Workerman[start_spider.php] has been stopped
+2018-04-03 20:06:08 pid:3158 Workerman[start_spider.php] start in DAEMON mode
+2018-04-03 20:07:04 pid:3160 worker[sb:3161] exit with status 65280
+2018-04-03 20:07:04 pid:3160 worker[sb:3162] exit with status 65280
+2018-04-03 20:07:35 pid:3176 Workerman[start_spider.php] stop 
+2018-04-03 20:07:35 pid:3176 Workerman[start_spider.php] is stoping ...
+2018-04-03 20:07:35 pid:3160 Workerman[start_spider.php] stopping ...
+2018-04-03 20:07:40 pid:3176 Workerman[start_spider.php] stop fail
+2018-04-03 20:08:05 pid:3160 worker[sb:3171] exit with status 65280
+2018-04-03 20:08:05 pid:3160 worker[sb:3172] exit with status 65280
+2018-04-03 20:08:05 pid:3160 Workerman[start_spider.php] has been stopped
+2018-04-03 20:08:14 pid:3183 Workerman[start_spider.php] start in DAEMON mode
+2018-04-03 20:08:58 pid:3194 Workerman[start_spider.php] stop 
+2018-04-03 20:08:58 pid:3194 Workerman[start_spider.php] is stoping ...
+2018-04-03 20:08:58 pid:3185 Workerman[start_spider.php] stopping ...
+2018-04-03 20:09:03 pid:3194 Workerman[start_spider.php] stop fail
+2018-04-03 20:09:12 pid:3185 worker[sb:3187] exit with status 65280
+2018-04-03 20:09:12 pid:3185 worker[sb:3186] exit with status 65280
+2018-04-03 20:09:12 pid:3185 Workerman[start_spider.php] has been stopped
+2018-04-03 20:10:16 pid:3204 Workerman[start_spider.php] start in DAEMON mode
+2018-04-03 20:11:14 pid:3206 worker[sb:3208] exit with status 65280
+2018-04-03 20:11:14 pid:3206 worker[sb:3207] exit with status 65280
+2018-04-03 20:11:21 pid:3219 Workerman[start_spider.php] stop 
+2018-04-03 20:11:21 pid:3219 Workerman[start_spider.php] is stoping ...
+2018-04-03 20:11:21 pid:3206 Workerman[start_spider.php] stopping ...
+2018-04-03 20:11:26 pid:3219 Workerman[start_spider.php] stop fail
+2018-04-03 20:12:14 pid:3206 worker[sb:3216] exit with status 65280
+2018-04-03 20:12:14 pid:3206 worker[sb:3217] exit with status 65280
+2018-04-03 20:12:14 pid:3206 Workerman[start_spider.php] has been stopped
+2018-04-03 20:14:33 pid:3246 Workerman[start_spider.php] start in DAEMON mode
+2018-04-03 20:15:29 pid:3248 worker[sb:3249] exit with status 65280
+2018-04-03 20:15:30 pid:3248 worker[sb:3250] exit with status 65280
+2018-04-03 20:15:55 pid:3263 Workerman[start_spider.php] stop 
+2018-04-03 20:15:55 pid:3263 Workerman[start_spider.php] is stoping ...
+2018-04-03 20:15:55 pid:3248 Workerman[start_spider.php] stopping ...
+2018-04-03 20:16:00 pid:3263 Workerman[start_spider.php] stop fail
+2018-04-03 20:16:01 pid:3264 Workerman[start_spider.php] start in DAEMON mode
+2018-04-03 20:16:01 pid:3264 Workerman[start_spider.php] already running
+2018-04-03 20:16:30 pid:3248 worker[sb:3257] exit with status 65280
+2018-04-03 20:16:30 pid:3248 worker[sb:3258] exit with status 65280
+2018-04-03 20:16:30 pid:3248 Workerman[start_spider.php] has been stopped
+2018-04-03 20:17:03 pid:3275 Workerman[start_spider.php] stop 
+2018-04-03 20:17:03 pid:3275 Workerman[start_spider.php] not run
+2018-04-03 20:17:08 pid:2737 Workerman[start_queue.php] stopping ...
+2018-04-03 20:17:08 pid:2737 Workerman[start_queue.php] has been stopped
+2018-04-03 20:17:41 pid:3282 Workerman[start_queue.php] start in DAEMON mode
+2018-04-03 20:18:05 pid:3289 Workerman[start_queue.php] start in DAEMON mode
+2018-04-03 20:18:05 pid:3289 Workerman[start_queue.php] already running
+2018-04-03 23:28:34 pid:3284 Workerman[start_queue.php] stopping ...
+2018-04-03 23:28:34 pid:3284 Workerman[start_queue.php] has been stopped
+2018-04-06 16:14:12 pid:1504 Workerman[start_queue.php] start in DAEMON mode
+2018-04-06 16:14:35 pid:1513 Workerman[start_spider.php] start in DAEMON mode
+2018-04-06 16:15:25 pid:1529 Workerman[start_spider.php] stop 
+2018-04-06 16:15:25 pid:1529 Workerman[start_spider.php] is stoping ...
+2018-04-06 16:15:25 pid:1515 Workerman[start_spider.php] stopping ...
+2018-04-06 16:15:25 pid:1515 Workerman[start_spider.php] has been stopped
+2018-04-06 16:15:25 pid:1529 Workerman[start_spider.php] stop success
+2018-04-06 17:00:50 pid:1919 Workerman[start_spider.php] start in DAEMON mode
+2018-04-06 17:12:55 pid:2037 Workerman[start_spider.php] stop 
+2018-04-06 17:12:55 pid:2037 Workerman[start_spider.php] is stoping ...
+2018-04-06 17:12:55 pid:1921 Workerman[start_spider.php] stopping ...
+2018-04-06 17:12:55 pid:1921 Workerman[start_spider.php] has been stopped
+2018-04-06 17:12:55 pid:2037 Workerman[start_spider.php] stop success
+2018-04-06 17:18:04 pid:2078 Workerman[start_spider.php] start in DAEMON mode
+2018-04-06 17:18:35 pid:2086 Workerman[start_spider.php] stop 
+2018-04-06 17:18:35 pid:2086 Workerman[start_spider.php] is stoping ...
+2018-04-06 17:18:35 pid:2080 Workerman[start_spider.php] stopping ...
+2018-04-06 17:18:35 pid:2080 Workerman[start_spider.php] has been stopped
+2018-04-06 17:18:35 pid:2086 Workerman[start_spider.php] stop success
+2018-04-06 17:18:48 pid:2090 Workerman[start_spider.php] start in DAEMON mode
+2018-04-06 17:19:18 pid:2099 Workerman[start_spider.php] stop 
+2018-04-06 17:19:18 pid:2099 Workerman[start_spider.php] is stoping ...
+2018-04-06 17:19:18 pid:2092 Workerman[start_spider.php] stopping ...
+2018-04-06 17:19:19 pid:2092 Workerman[start_spider.php] has been stopped
+2018-04-06 17:19:19 pid:2099 Workerman[start_spider.php] stop success
+2018-04-06 17:19:33 pid:2101 Workerman[start_queue.php] stop 
+2018-04-06 17:19:33 pid:2101 Workerman[start_queue.php] is stoping ...
+2018-04-06 17:19:33 pid:1506 Workerman[start_queue.php] stopping ...
+2018-04-06 17:19:33 pid:1506 Workerman[start_queue.php] has been stopped
+2018-04-06 17:19:33 pid:2101 Workerman[start_queue.php] stop success
+2018-04-06 17:20:07 pid:2111 Workerman[start_queue.php] start in DAEMON mode
+2018-04-06 17:20:15 pid:2115 Workerman[start_spider.php] start in DAEMON mode
+2018-04-06 17:21:06 pid:2127 Workerman[start_spider.php] stop 
+2018-04-06 17:21:06 pid:2127 Workerman[start_spider.php] is stoping ...
+2018-04-06 17:21:06 pid:2117 Workerman[start_spider.php] stopping ...
+2018-04-06 17:21:06 pid:2117 Workerman[start_spider.php] has been stopped
+2018-04-06 17:21:06 pid:2127 Workerman[start_spider.php] stop success

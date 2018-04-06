@@ -1,0 +1,609 @@
+2018-04-03 02:01:28 sb : Beanbun worker 0 is starting ...
+2018-04-03 02:01:28 sb : Beanbun worker 1 is starting ...
+start the queue number is 0.
+2018-04-03 02:01:33 sb : Beanbun worker 0 download http://tech.huanqiu.com/ success.
+2018-04-03 02:01:33 sb : the queue number is 10.
+start the queue number is 9.
+2018-04-03 02:01:38 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/ success.
+2018-04-03 02:01:38 sb : the queue number is 10.
+2018-04-03 02:01:43 sb : 
+start the queue number is 9.
+2018-04-03 02:01:43 sb : Beanbun worker 1 download http://world.huanqiu.com/ success.
+2018-04-03 02:01:43 sb : the queue number is 10.
+2018-04-03 19:16:59 sb : Beanbun worker 1 is starting ...
+2018-04-03 19:16:59 sb : Beanbun worker 0 is starting ...
+before the queue number is 0.
+2018-04-03 19:17:04 sb : Beanbun worker 1 download http://tech.huanqiu.com/ success.
+after the queue number is 0.
+end the queue number is 10.
+2018-04-03 19:17:08 sb : 
+2018-04-03 19:18:23 sb : Beanbun worker 0 is starting ...
+2018-04-03 19:18:23 sb : Beanbun worker 1 is starting ...
+before the queue number is 8.
+before the queue number is 8.
+2018-04-03 19:18:28 sb : Beanbun worker 0 download http://tech.huanqiu.com/business/ success.
+2018-04-03 19:18:28 sb : Beanbun worker 1 download http://tech.huanqiu.com/net/ success.
+after the queue number is 8.
+after the queue number is 8.
+end the queue number is 11.
+end the queue number is 11.
+before the queue number is 9.
+before the queue number is 9.
+2018-04-03 19:18:33 sb : Beanbun worker 0 download http://mil.huanqiu.com/ success.
+2018-04-03 19:18:33 sb : Beanbun worker 1 download http://world.huanqiu.com/ success.
+after the queue number is 9.
+after the queue number is 9.
+end the queue number is 10.
+end the queue number is 10.
+before the queue number is 8.
+before the queue number is 8.
+2018-04-03 19:18:39 sb : Beanbun worker 0 download http://www.huanqiu.com/ success.
+2018-04-03 19:18:39 sb : Beanbun worker 1 download http://www.huanqiu.com/ success.
+after the queue number is 8.
+after the queue number is 10.
+end the queue number is 10.
+end the queue number is 10.
+before the queue number is 8.
+before the queue number is 8.
+2018-04-03 19:18:44 sb : Beanbun worker 1 download http://i.huanqiu.com/register success.
+after the queue number is 8.
+end the queue number is 10.
+2018-04-03 19:18:44 sb : Beanbun worker 0 download http://finance.huanqiu.com/financepic/2018-04/2895903.html success.
+after the queue number is 10.
+end the queue number is 10.
+before the queue number is 8.
+before the queue number is 8.
+2018-04-03 19:18:48 sb : Beanbun worker 0 download http://finance.huanqiu.com success.
+2018-04-03 19:18:48 sb : Beanbun worker 1 download http://i.huanqiu.com/login success.
+after the queue number is 8.
+end the queue number is 10.
+after the queue number is 10.
+end the queue number is 10.
+before the queue number is 8.
+before the queue number is 8.
+2018-04-03 19:18:53 sb : Beanbun worker 0 download http://finance.huanqiu.com/ success.
+after the queue number is 8.
+end the queue number is 10.
+2018-04-03 19:18:54 sb : Beanbun worker 1 download http://corp.huanqiu.com/about/ success.
+after the queue number is 10.
+end the queue number is 10.
+before the queue number is 8.
+before the queue number is 8.
+2018-04-03 19:18:59 sb : Beanbun worker 1 download http://finance.huanqiu.com/roll/ success.
+2018-04-03 19:18:59 sb : Beanbun worker 0 download http://corp.huanqiu.com/ success.
+after the queue number is 8.
+end the queue number is 10.
+after the queue number is 10.
+end the queue number is 10.
+before the queue number is 8.
+before the queue number is 8.
+2018-04-03 19:19:03 sb : Beanbun worker 0 download http://corp.huanqiu.com/advertising_services/ success.
+after the queue number is 8.
+end the queue number is 10.
+2018-04-03 19:19:04 sb : Beanbun worker 1 download http://china.huanqiu.com/ success.
+after the queue number is 10.
+end the queue number is 10.
+before the queue number is 7.
+before the queue number is 4.
+2018-04-03 19:19:08 sb : Beanbun worker 0 download http://tech.huanqiu.com/comm/ success.
+2018-04-03 19:19:08 sb : Beanbun worker 1 download http://corp.huanqiu.com/contactus/ success.
+after the queue number is 4.
+end the queue number is 7.
+after the queue number is 7.
+end the queue number is 10.
+before the queue number is 8.
+before the queue number is 8.
+2018-04-03 19:19:14 sb : Beanbun worker 1 download http://look.huanqiu.com/ success.
+after the queue number is 8.
+2018-04-03 19:19:14 sb : Beanbun worker 0 download http://opinion.huanqiu.com/ success.
+end the queue number is 10.
+after the queue number is 10.
+end the queue number is 10.
+2018-04-03 19:55:33 sb : Beanbun worker 0 is starting ...
+2018-04-03 19:55:33 sb : Beanbun worker 1 is starting ...
+before the queue number is 7.
+before the queue number is 7.
+2018-04-03 19:55:38 sb : Beanbun worker 1 download http://look.huanqiu.com success.
+after the queue number is 7.
+end the queue number is 10.
+2018-04-03 19:55:38 sb : Beanbun worker 0 download http://look.huanqiu.com/hvideo/? success.
+after the queue number is 10.
+end the queue number is 10.
+before the queue number is 8.
+before the queue number is 8.
+2018-04-03 19:55:43 sb : Beanbun worker 0 download http://look.huanqiu.com/weekinpicture/? success.
+after the queue number is 8.
+end the queue number is 10.
+2018-04-03 19:55:43 sb : Beanbun worker 1 download http://photo.huanqiu.com/ success.
+after the queue number is 10.
+end the queue number is 10.
+before the queue number is 8.
+before the queue number is 8.
+2018-04-03 19:55:48 sb : Beanbun worker 1 download http://look.huanqiu.com/photoview/2018-04/2895898.html success.
+after the queue number is 8.
+end the queue number is 10.
+2018-04-03 19:55:48 sb : Beanbun worker 0 download http://lx.huanqiu.com/ success.
+after the queue number is 10.
+end the queue number is 10.
+before the queue number is 7.
+before the queue number is 7.
+2018-04-03 19:55:53 sb : Beanbun worker 1 download http://look.huanqiu.com/photoview/ success.
+after the queue number is 7.
+end the queue number is 10.
+2018-04-03 19:55:53 sb : Beanbun worker 0 download http://oversea.huanqiu.com/ success.
+after the queue number is 10.
+end the queue number is 10.
+before the queue number is 8.
+before the queue number is 8.
+2018-04-03 19:55:58 sb : Beanbun worker 1 download http://ent.huanqiu.com/ success.
+after the queue number is 8.
+end the queue number is 10.
+2018-04-03 19:55:58 sb : Beanbun worker 0 download http://sports.huanqiu.com/ success.
+after the queue number is 10.
+end the queue number is 10.
+before the queue number is 8.
+before the queue number is 8.
+2018-04-03 19:56:03 sb : Beanbun worker 1 download http://sports.huanqiu.com/f/qiumiao/20180403150210l5025l36.html success.
+after the queue number is 8.
+end the queue number is 10.
+2018-04-03 19:56:03 sb : Beanbun worker 0 download http://fashion.huanqiu.com success.
+after the queue number is 10.
+end the queue number is 10.
+before the queue number is 7.
+before the queue number is 7.
+2018-04-03 19:56:08 sb : Beanbun worker 1 download http://f3.13322cc.com/f/20180403/sport/article/i/9075ea2dd32a44659bad7d7b984e482b.jpg success.
+after the queue number is 7.
+end the queue number is 6.
+2018-04-03 19:56:08 sb : Beanbun worker 0 download http://f3.13322cc.com/f/20180403/sport/article/i/34702249187542dc95b7b8efcc87adda.jpg success.
+after the queue number is 6.
+end the queue number is 5.
+before the queue number is 2.
+before the queue number is 2.
+2018-04-03 19:56:13 sb : Beanbun worker 0 download http://tech.huanqiu.com/original/ success.
+after the queue number is 2.
+end the queue number is 10.
+2018-04-03 19:56:13 sb : Client error: `GET http://sports.huanqiu.com/f/qiumiao/` resulted in a `403 Forbidden` response:
+<html>
+<head><title>403 Forbidden</title></head>
+<body bgcolor="white">
+<center><h1>403 Forbidden</h1></center>
+<hr> (truncated...)
+
+2018-04-03 19:56:13 sb : Client error: `GET http://sports.huanqiu.com/f/qiumiao/` resulted in a `403 Forbidden` response:
+<html>
+<head><title>403 Forbidden</title></head>
+<body bgcolor="white">
+<center><h1>403 Forbidden</h1></center>
+<hr> (truncated...)
+
+before the queue number is 7.
+before the queue number is 7.
+2018-04-03 19:56:18 sb : Beanbun worker 1 download http://i.huanqiu.com/logout success.
+after the queue number is 7.
+end the queue number is 6.
+2018-04-03 19:56:18 sb : Beanbun worker 0 download http://i.huanqiu.com/center/ success.
+after the queue number is 6.
+end the queue number is 6.
+2018-04-03 19:57:15 sb : Beanbun worker 0 is starting ...
+2018-04-03 19:57:15 sb : Beanbun worker 1 is starting ...
+before the queue number is 4.
+before the queue number is 4.
+2018-04-03 19:57:21 sb : Beanbun worker 0 download http://www.huanqiu.com/weibo.html success.
+after the queue number is 4.
+end the queue number is 3.
+2018-04-03 19:57:21 sb : Beanbun worker 1 download http://xiaoshuo.huanqiu.com/ success.
+after the queue number is 3.
+end the queue number is 2.
+before the queue number is 0.
+before the queue number is 0.
+2018-04-03 19:57:26 sb : Beanbun worker 0 download http://hope.huanqiu.com/ success.
+after the queue number is 0.
+2018-04-03 19:57:26 sb : Beanbun worker 1 download http://health.huanqiu.com/ success.
+after the queue number is 0.
+2018-04-03 20:06:08 sb : Beanbun worker 1 is starting ...
+2018-04-03 20:06:08 sb : Beanbun worker 0 is starting ...
+2018-04-03 20:07:04 sb : Beanbun worker 0 is starting ...
+2018-04-03 20:07:04 sb : Beanbun worker 1 is starting ...
+2018-04-03 20:08:14 sb : Beanbun worker 1 is starting ...
+2018-04-03 20:08:14 sb : Beanbun worker 0 is starting ...
+2018-04-03 20:10:16 sb : Beanbun worker 1 is starting ...
+2018-04-03 20:10:16 sb : Beanbun worker 0 is starting ...
+2018-04-03 20:11:14 sb : Beanbun worker 1 is starting ...
+2018-04-03 20:11:14 sb : Beanbun worker 0 is starting ...
+2018-04-03 20:14:33 sb : Beanbun worker 0 is starting ...
+2018-04-03 20:14:33 sb : Beanbun worker 1 is starting ...
+2018-04-03 20:15:29 sb : Beanbun worker 0 is starting ...
+2018-04-03 20:15:30 sb : Beanbun worker 1 is starting ...
+2018-04-06 16:14:35 sb : Beanbun worker 0 is starting ...
+2018-04-06 16:14:35 sb : Beanbun worker 1 is starting ...
+before the queue number is 0.
+2018-04-06 16:14:40 sb : Beanbun worker 1 download http://tech.huanqiu.com/ success.
+after the queue number is 0.
+end the queue number is 10.
+before the queue number is 9.
+2018-04-06 16:14:45 sb : Beanbun worker 1 download http://tech.huanqiu.com/discovery/2018-04/11784914.html success.
+after the queue number is 9.
+end the queue number is 10.
+before the queue number is 9.
+2018-04-06 16:14:50 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2018-04/2896022.html success.
+after the queue number is 9.
+end the queue number is 10.
+before the queue number is 9.
+2018-04-06 16:14:55 sb : Beanbun worker 1 download http://tech.huanqiu.com/comm/2018-04/11771067.html success.
+after the queue number is 9.
+end the queue number is 10.
+before the queue number is 9.
+2018-04-06 16:15:00 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-04/11767997.html success.
+after the queue number is 9.
+end the queue number is 10.
+before the queue number is 9.
+2018-04-06 16:15:05 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2018-04/2895967.html success.
+after the queue number is 9.
+end the queue number is 10.
+2018-04-06 16:15:10 sb : 
+before the queue number is 9.
+before the queue number is 8.
+2018-04-06 16:15:10 sb : Beanbun worker 1 download http://tech.huanqiu.com/science/2018-04/11778620.html success.
+after the queue number is 8.
+end the queue number is 10.
+2018-04-06 16:15:10 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2018-04/2895965.html success.
+after the queue number is 10.
+end the queue number is 10.
+before the queue number is 9.
+before the queue number is 8.
+2018-04-06 16:15:15 sb : Beanbun worker 1 download http://tech.huanqiu.com/it/2018-04/11772238.html success.
+after the queue number is 8.
+end the queue number is 10.
+2018-04-06 16:15:15 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-04/11778486.html success.
+after the queue number is 10.
+end the queue number is 10.
+before the queue number is 8.
+before the queue number is 8.
+2018-04-06 16:15:20 sb : Beanbun worker 0 download http://tech.huanqiu.com/internet/2018-04/11771200.html success.
+after the queue number is 8.
+end the queue number is 10.
+2018-04-06 16:15:20 sb : Beanbun worker 1 download http://tech.huanqiu.com/discovery/2018-03/11643695.html success.
+after the queue number is 10.
+end the queue number is 10.
+before the queue number is 8.
+before the queue number is 8.
+2018-04-06 16:15:25 sb : Beanbun worker 1 download http://tech.huanqiu.com/it/2018-03/11722703.html success.
+after the queue number is 8.
+end the queue number is 10.
+2018-04-06 16:15:25 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2018-04/2895988.html success.
+after the queue number is 10.
+end the queue number is 10.
+2018-04-06 17:00:50 sb : Beanbun worker 0 is starting ...
+2018-04-06 17:00:50 sb : Beanbun worker 1 is starting ...
+2018-04-06 17:00:56 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-04/11761356.html success.
+2018-04-06 17:00:56 sb : Beanbun worker 1 download http://tech.huanqiu.com/science/2018-04/11739120.html success.
+2018-04-06 17:01:01 sb : Beanbun worker 0 download http://tech.huanqiu.com/science/2018-04/11739085.html success.
+2018-04-06 17:01:01 sb : Beanbun worker 1 download http://tech.huanqiu.com/it/2017-11/11367415.html success.
+2018-04-06 17:01:06 sb : Beanbun worker 1 download http://tech.huanqiu.com/internet/2018-04/11770834.html success.
+2018-04-06 17:01:06 sb : Beanbun worker 0 download http://tech.huanqiu.com/original/2015-11/7990323.html success.
+2018-04-06 17:01:11 sb : Beanbun worker 1 download http://tech.huanqiu.com/it/2018-03/11699832.html success.
+2018-04-06 17:01:11 sb : Beanbun worker 0 download http://tech.huanqiu.com/internet/2018-04/11768019.html success.
+2018-04-06 17:01:16 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-04/11761186.html success.
+2018-04-06 17:01:16 sb : Beanbun worker 0 download http://tech.huanqiu.com/it/2018-03/11698328.html success.
+2018-04-06 17:01:21 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-04/11761101.html success.
+2018-04-06 17:01:21 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-04/11761153.html success.
+2018-04-06 17:01:26 sb : Beanbun worker 0 download http://tech.huanqiu.com/science/2018-03/11688875.html success.
+2018-04-06 17:01:26 sb : Beanbun worker 1 download http://tech.huanqiu.com/science/2017-05/10591329.html success.
+2018-04-06 17:01:31 sb : Beanbun worker 1 download http://tech.huanqiu.com/internet/2018-04/11759603.html success.
+2018-04-06 17:01:31 sb : Beanbun worker 0 download http://tech.huanqiu.com/comm/2018-03/11670950.html success.
+2018-04-06 17:01:36 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-04/11760767.html success.
+2018-04-06 17:01:36 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-04/11760767.html success.
+2018-04-06 17:01:41 sb : Beanbun worker 1 download http://tech.huanqiu.com/science/2018-03/11688182.html success.
+2018-04-06 17:01:41 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-04/11760177.html success.
+2018-04-06 17:01:46 sb : Beanbun worker 1 download http://tech.huanqiu.com/internet/2018-03/11705003.html success.
+2018-04-06 17:01:46 sb : Beanbun worker 0 download http://tech.huanqiu.com/science/2018-03/11687796.html success.
+2018-04-06 17:01:51 sb : Beanbun worker 1 download http://tech.huanqiu.com/internet/2018-02/11626086.html success.
+2018-04-06 17:01:51 sb : Beanbun worker 0 download http://tech.huanqiu.com/internet/2018-03/11662233.html success.
+2018-04-06 17:01:56 sb : Beanbun worker 0 download http://tech.huanqiu.com/internet/2018-02/11623738.html success.
+2018-04-06 17:01:56 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-04/11759613.html success.
+2018-04-06 17:02:01 sb : Beanbun worker 1 download http://tech.huanqiu.com/science/2018-03/11686030.html success.
+2018-04-06 17:02:01 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-04/11759191.html success.
+2018-04-06 17:02:06 sb : Beanbun worker 0 download http://tech.huanqiu.com/internet/2018-03/11665338.html success.
+2018-04-06 17:02:06 sb : Beanbun worker 1 download http://tech.huanqiu.com/original/2017-12/11466079.html success.
+2018-04-06 17:02:11 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-04/11756466.html success.
+2018-04-06 17:02:11 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-04/11739759.html success.
+2018-04-06 17:02:16 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-03/11711106.html success.
+2018-04-06 17:02:16 sb : Beanbun worker 1 download http://tech.huanqiu.com/science/2018-03/11685970.html success.
+2018-04-06 17:02:21 sb : Beanbun worker 0 download http://tech.huanqiu.com/science/2018-03/11684747.html success.
+2018-04-06 17:02:21 sb : Beanbun worker 1 download http://tech.huanqiu.com/science/2018-03/11682654.html success.
+2018-04-06 17:02:26 sb : Beanbun worker 0 download http://tech.huanqiu.com/internet/2018-03/11660230.html success.
+2018-04-06 17:02:26 sb : Beanbun worker 1 download http://tech.huanqiu.com/internet/2017-10/11321555.html success.
+2018-04-06 17:02:31 sb : Beanbun worker 0 download http://tech.huanqiu.com/internet/2017-09/11226925.html success.
+2018-04-06 17:02:31 sb : Beanbun worker 1 download http://tech.huanqiu.com/internet/2017-08/11196638.html success.
+2018-04-06 17:02:36 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-04/11741048.html success.
+2018-04-06 17:02:36 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-04/11741368.html success.
+2018-04-06 17:02:41 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-03/11701224.html success.
+2018-04-06 17:02:41 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-03/11701226.html success.
+2018-04-06 17:02:46 sb : Beanbun worker 0 download http://tech.huanqiu.com/internet/2018-03/11659001.html success.
+2018-04-06 17:02:46 sb : Beanbun worker 1 download http://tech.huanqiu.com/science/2018-03/11682638.html success.
+2018-04-06 17:02:51 sb : Beanbun worker 0 download http://tech.huanqiu.com/internet/2018-02/11619178.html success.
+2018-04-06 17:02:51 sb : Beanbun worker 1 download http://tech.huanqiu.com/internet/2017-08/11162697.html success.
+2018-04-06 17:02:56 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-04/11739556.html success.
+2018-04-06 17:02:56 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-04/11739612.html success.
+2018-04-06 17:03:01 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-03/11676249.html success.
+2018-04-06 17:03:01 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-03/11676205.html success.
+2018-04-06 17:03:06 sb : Beanbun worker 0 download http://tech.huanqiu.com/internet/2018-01/11529208.html success.
+2018-04-06 17:03:06 sb : Beanbun worker 1 download http://tech.huanqiu.com/internet/2018-01/11557934.html success.
+2018-04-06 17:03:11 sb : Beanbun worker 0 download http://tech.huanqiu.com/internet/2018-02/11614766.html success.
+2018-04-06 17:03:12 sb : Beanbun worker 1 download http://tech.huanqiu.com/internet/2018-02/11588770.html success.
+2018-04-06 17:03:16 sb : Beanbun worker 0 download http://tech.huanqiu.com/original/2018-01/11500780.html success.
+2018-04-06 17:03:18 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-03/11723036.html success.
+2018-04-06 17:03:21 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-03/11722594.html success.
+2018-04-06 17:03:25 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-03/11670505.html success.
+2018-04-06 17:03:26 sb : Beanbun worker 1 download http://tech.huanqiu.com/internet/2018-01/11507872.html success.
+2018-04-06 17:03:26 sb : Beanbun worker 0 download http://tech.huanqiu.com/internet/2018-01/11510746.html success.
+2018-04-06 17:03:31 sb : Beanbun worker 1 download http://tech.huanqiu.com/gundong/2017-12/11453883.html success.
+2018-04-06 17:03:31 sb : Beanbun worker 0 download http://tech.huanqiu.com/internet/2018-01/11496010.html success.
+2018-04-06 17:03:36 sb : Beanbun worker 0 download http://tech.huanqiu.com/original/2017-06/10829893.html success.
+2018-04-06 17:03:36 sb : Beanbun worker 1 download http://tech.huanqiu.com/original/2017-12/11485628.html success.
+2018-04-06 17:03:41 sb : Beanbun worker 1 download http://tech.huanqiu.com/intelligent/2018-03/11722573.html success.
+2018-04-06 17:03:41 sb : Beanbun worker 0 download http://tech.huanqiu.com/original/2017-12/11482044.html success.
+2018-04-06 17:03:46 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-03/11710717.html success.
+2018-04-06 17:03:46 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-03/11721550.html success.
+2018-04-06 17:03:51 sb : Beanbun worker 1 download http://tech.huanqiu.com/original/2017-12/11466335.html success.
+2018-04-06 17:03:51 sb : Beanbun worker 0 download http://tech.huanqiu.com/original/2017-12/11451546.html success.
+2018-04-06 17:03:56 sb : Beanbun worker 1 download http://tech.huanqiu.com/original/2017-06/10825832.html success.
+2018-04-06 17:03:56 sb : Beanbun worker 0 download http://tech.huanqiu.com/original/2017-12/11443401.html success.
+2018-04-06 17:04:01 sb : Beanbun worker 1 download http://tech.huanqiu.com/intelligent/2018-03/11716214.html success.
+2018-04-06 17:04:01 sb : Beanbun worker 0 download http://tech.huanqiu.com/original/2017-06/10812650.html success.
+2018-04-06 17:04:06 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-03/11704844.html success.
+2018-04-06 17:04:06 sb : Beanbun worker 0 download http://tech.huanqiu.com/intelligent/2018-03/11713035.html success.
+2018-04-06 17:04:11 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-03/11704234.html success.
+2018-04-06 17:04:12 sb : Beanbun worker 1 download http://tech.huanqiu.com/original/2017-12/11438455.html success.
+2018-04-06 17:04:16 sb : Beanbun worker 0 download http://tech.huanqiu.com/it/2017-05/10621663.html success.
+2018-04-06 17:04:16 sb : Beanbun worker 1 download http://tech.huanqiu.com/it/2016-09/9455993.html success.
+2018-04-06 17:04:21 sb : Beanbun worker 0 download http://tech.huanqiu.com/original/2017-06/10825458.html success.
+2018-04-06 17:04:21 sb : Beanbun worker 1 download http://tech.huanqiu.com/original/2017-06/10825301.html success.
+2018-04-06 17:04:26 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-03/11704725.html success.
+2018-04-06 17:04:26 sb : Beanbun worker 1 download http://tech.huanqiu.com/intelligent/2018-03/11712766.html success.
+2018-04-06 17:04:31 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-03/11704215.html success.
+2018-04-06 17:04:31 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-03/11702645.html success.
+2018-04-06 17:04:36 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-03/11703941.html success.
+2018-04-06 17:04:36 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2018-03/2894905.html success.
+2018-04-06 17:04:41 sb : Beanbun worker 0 download http://tech.huanqiu.com/techchina/2018-03/11640458.html success.
+2018-04-06 17:04:41 sb : Beanbun worker 1 download http://tech.huanqiu.com/original/2017-06/10825110.html success.
+2018-04-06 17:04:46 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-03/11704716.html success.
+2018-04-06 17:04:49 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-03/11704709.html success.
+2018-04-06 17:04:52 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-03/11703843.html success.
+2018-04-06 17:04:52 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-03/11704242.html success.
+2018-04-06 17:04:56 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-03/11686240.html success.
+2018-04-06 17:04:56 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-03/11661037.html success.
+2018-04-06 17:05:01 sb : Beanbun worker 0 download http://tech.huanqiu.com/techchina/2018-03/11640412.html success.
+2018-04-06 17:05:01 sb : Beanbun worker 1 download http://tech.huanqiu.com/techchina/2018-03/11640183.html success.
+2018-04-06 17:05:06 sb : Beanbun worker 0 download http://tech.huanqiu.com/techchina/2018-03/11638263.html success.
+2018-04-06 17:05:06 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-03/11703737.html success.
+2018-04-06 17:05:11 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-03/11703700.html success.
+2018-04-06 17:05:11 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-03/11703636.html success.
+2018-04-06 17:05:23 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-03/11659358.html success.
+2018-04-06 17:05:24 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-03/11702765.html success.
+2018-04-06 17:05:26 sb : cURL error 28: Operation timed out after 10001 milliseconds with 0 bytes received (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)
+2018-04-06 17:05:26 sb : cURL error 28: Operation timed out after 10001 milliseconds with 0 bytes received (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)
+2018-04-06 17:05:27 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-03/11702885.html success.
+2018-04-06 17:05:29 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2017-11/11362872.html success.
+2018-04-06 17:05:31 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2017-10/11325074.html success.
+2018-04-06 17:05:34 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2017-09/11220517.html success.
+2018-04-06 17:05:36 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2017-09/11204563.html success.
+2018-04-06 17:05:39 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2017-08/11190284.html success.
+2018-04-06 17:05:41 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-03/11702619.html success.
+2018-04-06 17:05:44 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-03/11702548.html success.
+2018-04-06 17:05:46 sb : Beanbun worker 0 download http://tech.huanqiu.com/launch/2018-03/11702543.html success.
+2018-04-06 17:05:49 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-03/11702753.html success.
+2018-04-06 17:05:52 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2017-11/11362834.html success.
+2018-04-06 17:05:54 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2017-11/11362663.html success.
+2018-04-06 17:05:56 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2017-10/11323783.html success.
+2018-04-06 17:05:59 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2017-09/11215774.html success.
+2018-04-06 17:06:01 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2017-08/11190094.html success.
+2018-04-06 17:06:04 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2017-08/11190098.html success.
+2018-04-06 17:06:06 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-03/11699184.html success.
+2018-04-06 17:06:09 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-03/11701807.html success.
+2018-04-06 17:06:11 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2017-11/11362540.html success.
+2018-04-06 17:06:14 sb : Beanbun worker 1 download http://tech.huanqiu.com/original/2017-11/11359234.html success.
+2018-04-06 17:06:16 sb : Beanbun worker 0 download http://tech.huanqiu.com/original/2017-10/11323724.html success.
+2018-04-06 17:06:19 sb : Beanbun worker 1 download http://tech.huanqiu.com/original/2017-09/11215621.html success.
+2018-04-06 17:06:21 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2017-08/11190090.html success.
+2018-04-06 17:06:24 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2016-09/2843866.html success.
+2018-04-06 17:06:26 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-03/11699880.html success.
+2018-04-06 17:06:29 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-03/11698177.html success.
+2018-04-06 17:06:31 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2017-11/11362277.html success.
+2018-04-06 17:06:34 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2017-11/11362271.html success.
+2018-04-06 17:06:36 sb : Beanbun worker 0 download http://tech.huanqiu.com/original/2017-08/11078560.html success.
+2018-04-06 17:06:39 sb : Beanbun worker 1 download http://tech.huanqiu.com/original/2017-10/11322205.html success.
+2018-04-06 17:06:41 sb : Beanbun worker 0 download http://tech.huanqiu.com/original/2017-08/11174426.html success.
+2018-04-06 17:06:44 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2017-08/11190048.html success.
+2018-04-06 17:06:46 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2016-09/2843861.html success.
+2018-04-06 17:06:49 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2016-08/2843624.html success.
+2018-04-06 17:06:51 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-03/11699205.html success.
+2018-04-06 17:06:54 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-03/11696403.html success.
+2018-04-06 17:06:56 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2017-11/11362214.html success.
+2018-04-06 17:06:59 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2017-08/2879280.html success.
+2018-04-06 17:07:01 sb : Beanbun worker 0 download http://tech.huanqiu.com/original/2017-09/11258202.html success.
+2018-04-06 17:07:04 sb : Beanbun worker 1 download http://tech.huanqiu.com/it/2017-05/10575310.html success.
+2018-04-06 17:07:06 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2017-08/11189992.html success.
+2018-04-06 17:07:10 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2016-09/2843846.html success.
+2018-04-06 17:07:11 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2016-08/2843616.html success.
+2018-04-06 17:07:14 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-02/11600400.html success.
+2018-04-06 17:07:16 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2016-12/9763421.html success.
+2018-04-06 17:07:19 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2017-08/2879166.html success.
+2018-04-06 17:07:21 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2017-07/2878720.html success.
+2018-04-06 17:07:24 sb : Beanbun worker 1 download http://tech.huanqiu.com/original/2017-09/11251366.html success.
+2018-04-06 17:07:26 sb : Beanbun worker 0 download http://tech.huanqiu.com/it/2017-05/10575270.html success.
+2018-04-06 17:07:29 sb : Beanbun worker 1 download http://tech.huanqiu.com/original/2017-08/11189638.html success.
+2018-04-06 17:07:31 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2016-09/2843787.html success.
+2018-04-06 17:07:34 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2016-08/2843614.html success.
+2018-04-06 17:07:36 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-02/11596488.html success.
+2018-04-06 17:07:39 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-02/11596140.html success.
+2018-04-06 17:07:41 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2017-08/2879161.html success.
+2018-04-06 17:07:45 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2017-07/2878709.html success.
+2018-04-06 17:07:46 sb : Beanbun worker 0 download http://tech.huanqiu.com/original/2017-09/11247483.html success.
+2018-04-06 17:07:49 sb : Beanbun worker 1 download http://tech.huanqiu.com/it/2017-04/10536741.html success.
+2018-04-06 17:07:51 sb : Beanbun worker 0 download http://tech.huanqiu.com/original/2017-08/11189534.html success.
+2018-04-06 17:07:54 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2016-09/2843771.html success.
+2018-04-06 17:07:56 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2016-08/2843611.html success.
+2018-04-06 17:07:59 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-02/11596163.html success.
+2018-04-06 17:08:01 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-02/11596130.html success.
+2018-04-06 17:08:04 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2017-08/2879145.html success.
+2018-04-06 17:08:06 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2017-07/2878694.html success.
+2018-04-06 17:08:09 sb : Beanbun worker 1 download http://tech.huanqiu.com/original/2017-09/11243778.html success.
+2018-04-06 17:08:11 sb : Beanbun worker 0 download http://tech.huanqiu.com/original/2017-09/11241512.html success.
+2018-04-06 17:08:14 sb : Beanbun worker 1 download http://tech.huanqiu.com/it/2017-03/10406256.html success.
+2018-04-06 17:08:16 sb : Beanbun worker 0 download http://tech.huanqiu.com/original/2017-08/11184727.html success.
+2018-04-06 17:08:19 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2016-09/2843744.html success.
+2018-04-06 17:08:21 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2016-08/2843598.html success.
+2018-04-06 17:08:24 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-02/11596075.html success.
+2018-04-06 17:08:26 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2017-08/2879063.html success.
+2018-04-06 17:08:30 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2017-07/2878671.html success.
+2018-04-06 17:08:31 sb : Beanbun worker 0 download http://tech.huanqiu.com/original/2017-09/11240774.html success.
+2018-04-06 17:08:34 sb : Beanbun worker 1 download http://tech.huanqiu.com/it/2017-03/10387735.html success.
+2018-04-06 17:08:36 sb : Beanbun worker 0 download http://tech.huanqiu.com/original/2017-08/11184120.html success.
+2018-04-06 17:08:39 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2016-09/2843700.html success.
+2018-04-06 17:08:42 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2016-08/2843590.html success.
+2018-04-06 17:08:44 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-02/11595970.html success.
+2018-04-06 17:08:46 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-02/11594527.html success.
+2018-04-06 17:08:49 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2017-08/2879041.html success.
+2018-04-06 17:08:51 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2017-07/2878670.html success.
+2018-04-06 17:08:54 sb : Beanbun worker 1 download http://tech.huanqiu.com/original/2017-09/11240732.html success.
+2018-04-06 17:08:56 sb : Beanbun worker 0 download http://tech.huanqiu.com/original/2017-09/11240620.html success.
+2018-04-06 17:08:59 sb : Beanbun worker 1 download http://tech.huanqiu.com/comm/2017-03/10372132.html success.
+2018-04-06 17:09:01 sb : Beanbun worker 0 download http://tech.huanqiu.com/original/2017-08/11180168.html success.
+2018-04-06 17:09:04 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2016-09/2843689.html success.
+2018-04-06 17:09:06 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2016-08/2843556.html success.
+2018-04-06 17:09:09 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-02/11594462.html success.
+2018-04-06 17:09:11 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2017-08/2879020.html success.
+2018-04-06 17:09:14 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2017-07/2878655.html success.
+2018-04-06 17:09:16 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2017-09/2883161.html success.
+2018-04-06 17:09:19 sb : Beanbun worker 1 download http://tech.huanqiu.com/original/2017-08/11138893.html success.
+2018-04-06 17:09:21 sb : Beanbun worker 0 download http://tech.huanqiu.com/comm/2017-03/10308065.html success.
+2018-04-06 17:09:24 sb : Beanbun worker 1 download http://tech.huanqiu.com/original/2017-08/11180817.html success.
+2018-04-06 17:09:26 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2016-09/2843674.html success.
+2018-04-06 17:09:29 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2016-08/2843515.html success.
+2018-04-06 17:09:31 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-02/11594433.html success.
+2018-04-06 17:09:34 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-02/11594334.html success.
+2018-04-06 17:09:36 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2017-08/2878946.html success.
+2018-04-06 17:09:39 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2017-07/2878653.html success.
+2018-04-06 17:09:41 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2017-09/2883147.html success.
+2018-04-06 17:09:44 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2017-08/2880637.html success.
+2018-04-06 17:09:46 sb : Beanbun worker 0 download http://tech.huanqiu.com/news/2017-03/10296400.html success.
+2018-04-06 17:09:50 sb : Beanbun worker 1 download http://tech.huanqiu.com/original/2017-08/11180684.html success.
+2018-04-06 17:09:51 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2016-09/2843651.html success.
+2018-04-06 17:09:54 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2016-08/2843486.html success.
+2018-04-06 17:09:56 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-02/11594238.html success.
+2018-04-06 17:09:59 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2017-07/2878758.html success.
+2018-04-06 17:10:01 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2017-07/2878589.html success.
+2018-04-06 17:10:04 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2017-09/2883142.html success.
+2018-04-06 17:10:07 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2017-08/2880571.html success.
+2018-04-06 17:10:09 sb : Beanbun worker 1 download http://tech.huanqiu.com/it/2017-03/10292640.html success.
+2018-04-06 17:10:11 sb : Beanbun worker 0 download http://tech.huanqiu.com/original/2017-08/11180673.html success.
+2018-04-06 17:10:14 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2016-09/2843650.html success.
+2018-04-06 17:10:16 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2016-08/2843337.html success.
+2018-04-06 17:10:19 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-02/11594113.html success.
+2018-04-06 17:10:21 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-02/11594094.html success.
+2018-04-06 17:10:25 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2017-07/2878749.html success.
+2018-04-06 17:10:26 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2017-07/2878578.html success.
+2018-04-06 17:10:29 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2017-09/2883135.html success.
+2018-04-06 17:10:31 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2017-08/2880528.html success.
+2018-04-06 17:10:34 sb : Beanbun worker 1 download http://tech.huanqiu.com/it/2017-03/10292203.html success.
+2018-04-06 17:10:37 sb : Beanbun worker 0 download http://tech.huanqiu.com/original/2017-08/11180642.html success.
+2018-04-06 17:10:39 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2016-08/2843325.html success.
+2018-04-06 17:10:41 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-02/11594051.html success.
+2018-04-06 17:10:44 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2017-07/2878721.html success.
+2018-04-06 17:10:46 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2017-07/2878517.html success.
+2018-04-06 17:10:49 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2017-09/2883099.html success.
+2018-04-06 17:10:51 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2017-08/2880522.html success.
+2018-04-06 17:10:54 sb : Beanbun worker 1 download http://tech.huanqiu.com/it/2017-03/10292175.html success.
+2018-04-06 17:10:56 sb : Beanbun worker 0 download http://tech.huanqiu.com/original/2017-08/11177489.html success.
+2018-04-06 17:10:59 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2016-08/2843313.html success.
+2018-04-06 17:11:01 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-02/11593653.html success.
+2018-04-06 17:11:04 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-02/11593353.html success.
+2018-04-06 17:11:06 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-02/11593347.html success.
+2018-04-06 17:11:09 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2017-07/2878499.html success.
+2018-04-06 17:11:11 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2017-09/2883087.html success.
+2018-04-06 17:11:16 sb : Beanbun worker 0 download http://tech.huanqiu.com/it/2017-03/10291478.html success.
+2018-04-06 17:11:16 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2017-08/2880445.html success.
+2018-04-06 17:11:19 sb : Beanbun worker 1 download http://tech.huanqiu.com/original/2017-08/11177400.html success.
+2018-04-06 17:11:21 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2016-08/2843311.html success.
+2018-04-06 17:11:24 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-02/11592805.html success.
+2018-04-06 17:11:26 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2017-07/2878497.html success.
+2018-04-06 17:11:29 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2017-09/2883079.html success.
+2018-04-06 17:11:31 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2017-09/2882684.html success.
+2018-04-06 17:11:34 sb : Beanbun worker 1 download http://tech.huanqiu.com/it/2017-03/10291476.html success.
+2018-04-06 17:11:36 sb : Beanbun worker 0 download http://tech.huanqiu.com/it/2017-03/10291479.html success.
+2018-04-06 17:11:39 sb : Beanbun worker 1 download http://tech.huanqiu.com/original/2017-08/11172351.html success.
+2018-04-06 17:11:42 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2016-08/2843290.html success.
+2018-04-06 17:11:44 sb : Beanbun worker 1 download http://tech.huanqiu.com/it/2018-02/11583125.html success.
+2018-04-06 17:11:50 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-01/11568243.html success.
+2018-04-06 17:11:55 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-02/11574327.html success.
+2018-04-06 17:11:55 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2017-07/2878390.html success.
+2018-04-06 17:11:58 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2017-09/2882999.html success.
+2018-04-06 17:12:00 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2017-09/2882658.html success.
+2018-04-06 17:12:01 sb : Beanbun worker 0 download http://tech.huanqiu.com/it/2017-03/10291481.html success.
+2018-04-06 17:12:04 sb : Beanbun worker 1 download http://tech.huanqiu.com/original/2017-07/10995127.html success.
+2018-04-06 17:12:06 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2016-08/2843286.html success.
+2018-04-06 17:12:09 sb : Beanbun worker 1 download http://tech.huanqiu.com/comm/2018-02/11583004.html success.
+2018-04-06 17:12:10 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-01/11568019.html success.
+2018-04-06 17:12:14 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-01/11567993.html success.
+2018-04-06 17:12:16 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-02/11573917.html success.
+2018-04-06 17:12:19 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2017-07/2878380.html success.
+2018-04-06 17:12:21 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2017-09/2882649.html success.
+2018-04-06 17:12:24 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2017-09/2882130.html success.
+2018-04-06 17:12:26 sb : Beanbun worker 0 download http://tech.huanqiu.com/original/2017-07/10995077.html success.
+2018-04-06 17:12:29 sb : Beanbun worker 1 download http://tech.huanqiu.com/original/2017-07/10994759.html success.
+2018-04-06 17:12:31 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2016-08/2843281.html success.
+2018-04-06 17:12:34 sb : Beanbun worker 1 download http://tech.huanqiu.com/it/2018-01/11567327.html success.
+2018-04-06 17:12:35 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-01/11567732.html success.
+2018-04-06 17:12:39 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-02/11573613.html success.
+2018-04-06 17:12:41 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2017-07/2878370.html success.
+2018-04-06 17:12:45 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2017-09/2882589.html success.
+2018-04-06 17:12:46 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2017-09/2882074.html success.
+2018-04-06 17:12:49 sb : Beanbun worker 1 download http://tech.huanqiu.com/original/2017-07/10981796.html success.
+2018-04-06 17:12:53 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2016-08/2843276.html success.
+2018-04-06 17:12:54 sb : Beanbun worker 1 download http://tech.huanqiu.com/it/2018-01/11550580.html success.
+2018-04-06 17:18:04 sb : Beanbun worker 0 is starting ...
+2018-04-06 17:18:04 sb : Beanbun worker 1 is starting ...
+2018-04-06 17:18:09 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-02/11573553.html success.
+2018-04-06 17:18:10 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-01/11567277.html success.
+2018-04-06 17:18:14 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-02/11573537.html success.
+2018-04-06 17:18:14 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2017-07/2878295.html success.
+2018-04-06 17:18:19 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2017-09/2882581.html success.
+2018-04-06 17:18:19 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2017-08/2882013.html success.
+2018-04-06 17:18:24 sb : Beanbun worker 1 download http://tech.huanqiu.com/it/2017-04/10508118.html success.
+2018-04-06 17:18:24 sb : Beanbun worker 0 download http://tech.huanqiu.com/it/2017-04/10508062.html success.
+2018-04-06 17:18:29 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2016-08/2843270.html success.
+2018-04-06 17:18:29 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-01/11550156.html success.
+2018-04-06 17:18:34 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-02/11573390.html success.
+2018-04-06 17:18:35 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-02/11573529.html success.
+2018-04-06 17:18:48 sb : Beanbun worker 1 is starting ...
+2018-04-06 17:18:48 sb : Beanbun worker 0 is starting ...
+2018-04-06 17:18:53 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2017-09/2882389.html success.
+2018-04-06 17:18:53 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2017-08/2882007.html success.
+2018-04-06 17:18:58 sb : Beanbun worker 1 download http://tech.huanqiu.com/it/2017-02/10139747.html success.
+2018-04-06 17:18:58 sb : Beanbun worker 0 download http://tech.huanqiu.com/it/2017-03/10327387.html success.
+2018-04-06 17:19:03 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2016-08/2842997.html success.
+2018-04-06 17:19:03 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2016-08/2843219.html success.
+2018-04-06 17:19:08 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-01/11571011.html success.
+2018-04-06 17:19:09 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-01/11572153.html success.
+2018-04-06 17:19:13 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2017-09/2882373.html success.
+2018-04-06 17:19:13 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2017-08/2882003.html success.
+2018-04-06 17:19:18 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2017-09/2882144.html success.
+2018-04-06 17:19:19 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2017-09/2882178.html success.
+2018-04-06 17:20:15 sb : Beanbun worker 1 is starting ...
+2018-04-06 17:20:15 sb : Beanbun worker 0 is starting ...
+2018-04-06 17:20:20 sb : Beanbun worker 1 download http://tech.huanqiu.com/ success.
+2018-04-06 17:20:25 sb : Beanbun worker 1 download http://tech.huanqiu.com/discovery/2018-04/11784914.html success.
+2018-04-06 17:20:30 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2018-04/2896022.html success.
+2018-04-06 17:20:35 sb : Beanbun worker 1 download http://tech.huanqiu.com/comm/2018-04/11771067.html success.
+2018-04-06 17:20:40 sb : Beanbun worker 1 download http://tech.huanqiu.com/diginews/2018-04/11767997.html success.
+2018-04-06 17:20:45 sb : Beanbun worker 1 download http://tech.huanqiu.com/photo/2018-04/2895967.html success.
+2018-04-06 17:20:50 sb : 
+2018-04-06 17:20:50 sb : Beanbun worker 1 download http://tech.huanqiu.com/science/2018-04/11778620.html success.
+2018-04-06 17:20:50 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2018-04/2895965.html success.
+2018-04-06 17:20:55 sb : Beanbun worker 0 download http://tech.huanqiu.com/diginews/2018-04/11778486.html success.
+2018-04-06 17:20:55 sb : Beanbun worker 1 download http://tech.huanqiu.com/it/2018-04/11772238.html success.
+2018-04-06 17:21:00 sb : Beanbun worker 0 download http://tech.huanqiu.com/internet/2018-04/11771200.html success.
+2018-04-06 17:21:00 sb : Beanbun worker 1 download http://tech.huanqiu.com/discovery/2018-03/11643695.html success.
+2018-04-06 17:21:05 sb : Beanbun worker 1 download http://tech.huanqiu.com/it/2018-03/11722703.html success.
+2018-04-06 17:21:05 sb : Beanbun worker 0 download http://tech.huanqiu.com/photo/2018-04/2895988.html success.
